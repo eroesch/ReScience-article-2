@@ -2,7 +2,7 @@ import re
 import collections
 
 affiliations = {
-    "eroesch" : "Centre for Integrative Neuroscience, School of Psychology, University of Reading, UK",
+    "eroesch" : "Centre for Integrative Neuroscience and Neurodynamics, School of Psychology and Clinical Language Sciences, University of Reading, UK",
     "ThomasA" : "Department of Electronic Systems, Faculty of Engineering and Science, Aalborg University, Denmark",
     "ChristophMetzner" : "Centre for Computer Science and Informatics Research, University of Hertfordshire, UK",
     "apdavison" : "Unité de Neurosciences, Information et Complexité, Centre National de la Recherche Scientifique, Gif-sur-Yvette, France",
